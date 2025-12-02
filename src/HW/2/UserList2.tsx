@@ -1,5 +1,5 @@
 import {CurrentUser} from './CurrentUser';
-import {UsersObjectType, UserType} from './HW2';
+import {UsersObjectType} from './HW2';
 
 type UserList2PropsType = {
 	users:  UsersObjectType // пропиши типизацию

@@ -1,4 +1,4 @@
-import {text} from "node:stream/consumers";
+
 
 type ButtonPropsType = {
   callBack: ()=>void // НУЖНО ПРОТИПИЗИРОВАТЬ
